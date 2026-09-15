@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T23:33:28.919Z",
+  "generated_at": "2026-09-15T16:54:46.651Z",
   "items": {
     "problem:54": {
       "kind": "problem",
@@ -39,6 +39,19 @@
       "last_pushed_at": "2026-09-14T23:33:28.204Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:271": {
+      "kind": "problem",
+      "id": "271",
+      "title": "Implement Gated Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/271",
+      "path": "problems/0271-implement-gated-attention",
+      "first_solved_at": "2026-09-15T16:54:46.079Z",
+      "last_pushed_at": "2026-09-15T16:54:46.079Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }
