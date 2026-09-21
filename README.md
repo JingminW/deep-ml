@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 11 problems · 0 labs · 0 math
+**12** solved · 12 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Grouped Query Attention (GQA)](https://www.deep-ml.com/problems/391) | medium | 2026-09-19 | [solution](problems/0391-implement-grouped-query-attention-gqa) |
 | [Implement Multiquery Attention (MQA)](https://www.deep-ml.com/problems/390) | medium | 2026-09-17 | [solution](problems/0390-implement-multiquery-attention-mqa) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-09-14 | [solution](problems/0054-implementing-a-simple-rnn) |
+| [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-09-21 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-09-15 | [solution](problems/0094-implement-multi-head-attention) |
 | [Implement Multi-Head Self-Attention](https://www.deep-ml.com/problems/904) | hard | 2026-09-19 | [solution](problems/0904-implement-multi-head-self-attention) |
 | [Multi-Head Latent Attention (MLA)](https://www.deep-ml.com/problems/405) | hard | 2026-09-15 | [solution](problems/0405-multi-head-latent-attention-mla) |
