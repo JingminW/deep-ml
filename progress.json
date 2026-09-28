@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T04:16:23.024Z",
+  "generated_at": "2026-09-28T04:19:05.541Z",
   "items": {
     "problem:54": {
       "kind": "problem",
@@ -283,9 +283,9 @@
       "url": "https://www.deep-ml.com/problems/222",
       "path": "problems/0222-lora-low-rank-adaptation-forward-pass",
       "first_solved_at": "2026-09-28T04:16:22.401Z",
-      "last_pushed_at": "2026-09-28T04:16:22.401Z",
+      "last_pushed_at": "2026-09-28T04:19:04.888Z",
       "language": "python",
-      "lines": 16
+      "lines": 27
     }
   }
 }

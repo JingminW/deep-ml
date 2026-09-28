@@ -1,16 +1,27 @@
-import numpy as np
+import torch
 
-def lora_forward(x, W, A, B, alpha=1.0):
-    x = np.asarray(x, dtype=float)
-    W = np.asarray(W, dtype=float)
-    A = np.asarray(A, dtype=float)
-    B = np.asarray(B, dtype=float)
-
+def lora_forward(
+    x: torch.Tensor,
+    W: torch.Tensor,
+    A: torch.Tensor,
+    B: torch.Tensor,
+    alpha: float = 1.0
+) -> torch.Tensor:
+    """
+    Compute the LoRA forward pass using PyTorch.
+    
+    Args:
+        x: Input tensor (batch_size x in_features)
+        W: Frozen pretrained weights (in_features x out_features)
+        A: LoRA matrix A (rank x out_features)
+        B: LoRA matrix B (in_features x rank)
+        alpha: LoRA scaling factor
+        
+    Returns:
+        Output tensor (batch_size x out_features)
+    """
     rank = A.shape[0]
-
-    base_output = x @ W
-    lora_output = (x @ B) @ A
-
-    output = base_output + (alpha / rank) * lora_output
-
-    return output.tolist()
+    base_output = torch.einsum("bi,ik->bk", x, W)
+    lora_matrix = B @ A
+    lora_output = torch.einsum("bi,ik->bk", x, lora_matrix)
+    return base_output + (alpha / rank) * lora_output
