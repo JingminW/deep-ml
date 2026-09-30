@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T01:48:24.572Z",
+  "generated_at": "2026-09-30T02:27:18.833Z",
   "items": {
     "problem:54": {
       "kind": "problem",
@@ -299,6 +299,19 @@
       "last_pushed_at": "2026-09-29T01:48:23.950Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:1042": {
+      "kind": "problem",
+      "id": "1042",
+      "title": "Bias-less LayerNorm with Float32 Compute",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1042",
+      "path": "problems/1042-bias-less-layernorm-with-float32-compute",
+      "first_solved_at": "2026-09-30T02:27:18.013Z",
+      "last_pushed_at": "2026-09-30T02:27:18.013Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
