@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T08:13:50.626Z",
+  "generated_at": "2026-10-02T04:47:18.065Z",
   "items": {
     "problem:54": {
       "kind": "problem",
@@ -325,6 +325,19 @@
       "last_pushed_at": "2026-10-01T08:13:50.045Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:290": {
+      "kind": "problem",
+      "id": "290",
+      "title": "Implement He Weight Initialization",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/290",
+      "path": "problems/0290-implement-he-weight-initialization",
+      "first_solved_at": "2026-10-02T04:47:17.444Z",
+      "last_pushed_at": "2026-10-02T04:47:17.444Z",
+      "language": "python",
+      "lines": 49
     }
   }
 }

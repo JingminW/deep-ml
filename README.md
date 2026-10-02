@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**25** solved · 25 problems · 0 labs · 0 math
+**26** solved · 26 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-09-21 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
 | [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-09-26 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-09-21 | [solution](problems/0114-implement-global-average-pooling) |
+| [Implement He Weight Initialization](https://www.deep-ml.com/problems/290) | easy | 2026-10-02 | [solution](problems/0290-implement-he-weight-initialization) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-09-14 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-09-23 | [solution](problems/0146-momentum-optimizer) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-21 | [solution](problems/0087-adam-optimizer) |
