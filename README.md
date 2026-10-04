@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**27** solved · 27 problems · 0 labs · 0 math
+**28** solved · 28 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement He Weight Initialization](https://www.deep-ml.com/problems/290) | easy | 2026-10-02 | [solution](problems/0290-implement-he-weight-initialization) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-09-14 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-09-23 | [solution](problems/0146-momentum-optimizer) |
+| [Thanksgiving Feast Predictor: Softmax for Dish Selection](https://www.deep-ml.com/problems/216) | easy | 2026-10-04 | [solution](problems/0216-thanksgiving-feast-predictor-softmax-for-dish-selection) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-21 | [solution](problems/0087-adam-optimizer) |
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-09-14 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-09-17 | [solution](problems/0049-implement-adam-optimization-algorithm) |
