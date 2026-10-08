@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**33** solved · 33 problems · 0 labs · 0 math
+**34** solved · 34 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-09-26 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-09-21 | [solution](problems/0114-implement-global-average-pooling) |
 | [Implement He Weight Initialization](https://www.deep-ml.com/problems/290) | easy | 2026-10-02 | [solution](problems/0290-implement-he-weight-initialization) |
+| [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-10-08 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Implement Xavier/Glorot Weight Initialization](https://www.deep-ml.com/problems/369) | easy | 2026-10-08 | [solution](problems/0369-implement-xavier-glorot-weight-initialization) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-09-14 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-09-23 | [solution](problems/0146-momentum-optimizer) |
