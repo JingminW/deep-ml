@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**40** solved · 40 problems · 0 labs · 0 math
+**41** solved · 41 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-09-14 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/291) | medium | 2026-10-07 | [solution](problems/0291-calculate-number-of-parameters-in-neural-network) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-10-05 | [solution](problems/0151-dropout-layer) |
+| [Gridworld Policy Evaluation](https://www.deep-ml.com/problems/142) | medium | 2026-10-12 | [solution](problems/0142-gridworld-policy-evaluation) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-09-17 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-09-24 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement Gated Attention](https://www.deep-ml.com/problems/271) | medium | 2026-09-15 | [solution](problems/0271-implement-gated-attention) |
