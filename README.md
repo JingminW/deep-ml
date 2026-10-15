@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**47** solved · 47 problems · 0 labs · 0 math
+**48** solved · 48 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Adamax Optimizer](https://www.deep-ml.com/problems/148) | easy | 2026-10-15 | [solution](problems/0148-adamax-optimizer) |
 | [Bias-less LayerNorm with Float32 Compute](https://www.deep-ml.com/problems/1042) | easy | 2026-09-30 | [solution](problems/1042-bias-less-layernorm-with-float32-compute) |
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2026-10-08 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
 | [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2026-09-25 | [solution](problems/0147-gelu-activation-function) |
