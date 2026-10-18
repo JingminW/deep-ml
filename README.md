@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**50** solved · 50 problems · 0 labs · 0 math
+**51** solved · 51 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -56,6 +56,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-10-03 | [solution](problems/0190-overlapping-max-pooling) |
 | [PPO Clipped Surrogate Loss with Clip Diagnostics](https://www.deep-ml.com/problems/485) | medium | 2026-10-12 | [solution](problems/0485-ppo-clipped-surrogate-loss-with-clip-diagnostics) |
 | [Pre-Norm vs Post-Norm Transformer Block](https://www.deep-ml.com/problems/408) | medium | 2026-10-16 | [solution](problems/0408-pre-norm-vs-post-norm-transformer-block) |
+| [QK-Norm (Query-Key Normalization)](https://www.deep-ml.com/problems/407) | medium | 2026-10-18 | [solution](problems/0407-qk-norm-query-key-normalization) |
 | [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-09-29 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-09-21 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-09-15 | [solution](problems/0094-implement-multi-head-attention) |

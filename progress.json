@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T11:35:32.166Z",
+  "generated_at": "2026-10-18T07:17:10.272Z",
   "items": {
     "problem:54": {
       "kind": "problem",
@@ -650,6 +650,19 @@
       "last_pushed_at": "2026-10-17T11:35:30.827Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:407": {
+      "kind": "problem",
+      "id": "407",
+      "title": "QK-Norm (Query-Key Normalization)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/407",
+      "path": "problems/0407-qk-norm-query-key-normalization",
+      "first_solved_at": "2026-10-18T07:17:09.062Z",
+      "last_pushed_at": "2026-10-18T07:17:09.062Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }
