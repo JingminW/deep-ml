@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T17:11:24.207Z",
+  "generated_at": "2026-10-22T21:58:41.790Z",
   "items": {
     "problem:54": {
       "kind": "problem",
@@ -715,6 +715,19 @@
       "last_pushed_at": "2026-10-22T17:11:23.482Z",
       "language": "python",
       "lines": 50
+    },
+    "problem:400": {
+      "kind": "problem",
+      "id": "400",
+      "title": "Noise Prediction Loss for Diffusion Training",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/400",
+      "path": "problems/0400-noise-prediction-loss-for-diffusion-training",
+      "first_solved_at": "2026-10-22T21:58:41.195Z",
+      "last_pushed_at": "2026-10-22T21:58:41.195Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
