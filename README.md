@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**54** solved · 54 problems · 0 labs · 0 math
+**55** solved · 55 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -40,6 +40,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Epsilon-Greedy Action Selection for n-Armed Bandit](https://www.deep-ml.com/problems/158) | medium | 2026-10-13 | [solution](problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit) |
 | [Forward Diffusion Process](https://www.deep-ml.com/problems/303) | medium | 2026-10-21 | [solution](problems/0303-forward-diffusion-process) |
 | [Gridworld Policy Evaluation](https://www.deep-ml.com/problems/142) | medium | 2026-10-12 | [solution](problems/0142-gridworld-policy-evaluation) |
+| [Implement a Vision Transformer (ViT) Image Encoder](https://www.deep-ml.com/problems/720) | medium | 2026-10-22 | [solution](problems/0720-implement-a-vision-transformer-vit-image-encoder) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-09-17 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-09-24 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement Batched Causal Self-Attention](https://www.deep-ml.com/problems/957) | medium | 2026-10-14 | [solution](problems/0957-implement-batched-causal-self-attention) |
