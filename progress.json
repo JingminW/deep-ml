@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T05:25:10.643Z",
+  "generated_at": "2026-10-25T23:00:29.692Z",
   "items": {
     "problem:54": {
       "kind": "problem",
@@ -754,6 +754,19 @@
       "last_pushed_at": "2026-10-25T05:25:09.922Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:304": {
+      "kind": "problem",
+      "id": "304",
+      "title": "Forward & Backward Diffusion Process",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/304",
+      "path": "problems/0304-forward-backward-diffusion-process",
+      "first_solved_at": "2026-10-25T23:00:28.476Z",
+      "last_pushed_at": "2026-10-25T23:00:28.476Z",
+      "language": "python",
+      "lines": 43
     }
   }
 }

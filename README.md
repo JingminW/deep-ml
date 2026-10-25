@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**58** solved · 58 problems · 0 labs · 0 math
+**59** solved · 59 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/291) | medium | 2026-10-07 | [solution](problems/0291-calculate-number-of-parameters-in-neural-network) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-10-05 | [solution](problems/0151-dropout-layer) |
 | [Epsilon-Greedy Action Selection for n-Armed Bandit](https://www.deep-ml.com/problems/158) | medium | 2026-10-13 | [solution](problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit) |
+| [Forward & Backward Diffusion Process](https://www.deep-ml.com/problems/304) | medium | 2026-10-25 | [solution](problems/0304-forward-backward-diffusion-process) |
 | [Forward Diffusion Process](https://www.deep-ml.com/problems/303) | medium | 2026-10-21 | [solution](problems/0303-forward-diffusion-process) |
 | [Gridworld Policy Evaluation](https://www.deep-ml.com/problems/142) | medium | 2026-10-12 | [solution](problems/0142-gridworld-policy-evaluation) |
 | [Implement a Vision Transformer (ViT) Image Encoder](https://www.deep-ml.com/problems/720) | medium | 2026-10-22 | [solution](problems/0720-implement-a-vision-transformer-vit-image-encoder) |
