@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T04:07:44.802Z",
+  "generated_at": "2026-10-29T04:08:16.876Z",
   "items": {
     "problem:54": {
       "kind": "problem",
@@ -803,7 +803,7 @@
       "url": "https://www.deep-ml.com/problems/866",
       "path": "problems/0866-merge-lora-adapter-weights-for-zero-latency-inference",
       "first_solved_at": "2026-10-29T04:07:44.017Z",
-      "last_pushed_at": "2026-10-29T04:07:44.017Z",
+      "last_pushed_at": "2026-10-29T04:08:16.203Z",
       "language": "python",
       "lines": 22
     }
