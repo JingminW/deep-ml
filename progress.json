@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T08:24:10.378Z",
+  "generated_at": "2026-11-07T10:01:54.873Z",
   "items": {
     "problem:54": {
       "kind": "problem",
@@ -921,6 +921,19 @@
       "path": "problems/0030-batch-iterator-for-dataset",
       "first_solved_at": "2026-11-06T08:24:09.754Z",
       "last_pushed_at": "2026-11-06T08:24:09.754Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2026-11-07T10:01:54.303Z",
+      "last_pushed_at": "2026-11-07T10:01:54.303Z",
       "language": "python",
       "lines": 14
     }
