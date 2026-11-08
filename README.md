@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**72** solved · 72 problems · 0 labs · 0 math
+**73** solved · 73 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -46,6 +46,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bellman Expectation Equation for State-Value Function](https://www.deep-ml.com/problems/464) | medium | 2026-10-13 | [solution](problems/0464-bellman-expectation-equation-for-state-value-function) |
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-09-14 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/291) | medium | 2026-10-07 | [solution](problems/0291-calculate-number-of-parameters-in-neural-network) |
+| [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-11-08 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Diffusion Reconstruction Loss](https://www.deep-ml.com/problems/302) | medium | 2026-10-26 | [solution](problems/0302-diffusion-reconstruction-loss) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-11-01 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-10-05 | [solution](problems/0151-dropout-layer) |
