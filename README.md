@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**79** solved · 79 problems · 0 labs · 0 math
+**80** solved · 80 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Exponential Moving Average (EMA) for Diffusion Model Weights](https://www.deep-ml.com/problems/401) | easy | 2026-10-28 | [solution](problems/0401-exponential-moving-average-ema-for-diffusion-model-weights) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-10-31 | [solution](problems/0016-feature-scaling-implementation) |
 | [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2026-09-25 | [solution](problems/0147-gelu-activation-function) |
+| [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-11-15 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Implement 2D Average Pooling](https://www.deep-ml.com/problems/265) | easy | 2026-10-01 | [solution](problems/0265-implement-2d-average-pooling) |
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-09-21 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
 | [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-09-26 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
