@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T08:56:33.250Z",
+  "generated_at": "2026-11-16T00:56:36.181Z",
   "items": {
     "problem:54": {
       "kind": "problem",
@@ -1040,6 +1040,19 @@
       "last_pushed_at": "2026-11-15T08:56:32.668Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:47": {
+      "kind": "problem",
+      "id": "47",
+      "title": "Implement Gradient Descent Variants with MSE Loss",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/47",
+      "path": "problems/0047-implement-gradient-descent-variants-with-mse-loss",
+      "first_solved_at": "2026-11-16T00:56:35.541Z",
+      "last_pushed_at": "2026-11-16T00:56:35.541Z",
+      "language": "python",
+      "lines": 46
     }
   }
 }
