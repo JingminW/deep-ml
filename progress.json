@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T19:36:47.879Z",
+  "generated_at": "2026-11-19T06:14:14.637Z",
   "items": {
     "problem:54": {
       "kind": "problem",
@@ -1079,6 +1079,19 @@
       "last_pushed_at": "2026-11-17T19:36:47.225Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:684": {
+      "kind": "problem",
+      "id": "684",
+      "title": "Adaptive Layer Normalization for Conditional Generation",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/684",
+      "path": "problems/0684-adaptive-layer-normalization-for-conditional-generation",
+      "first_solved_at": "2026-11-19T06:14:14.058Z",
+      "last_pushed_at": "2026-11-19T06:14:14.058Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }

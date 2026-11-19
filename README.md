@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**83** solved · 83 problems · 0 labs · 0 math
+**84** solved · 84 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -48,6 +48,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-08 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Upper Confidence Bound (UCB) Action Selection](https://www.deep-ml.com/problems/162) | easy | 2026-10-12 | [solution](problems/0162-upper-confidence-bound-ucb-action-selection) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-21 | [solution](problems/0087-adam-optimizer) |
+| [Adaptive Layer Normalization for Conditional Generation](https://www.deep-ml.com/problems/684) | medium | 2026-11-19 | [solution](problems/0684-adaptive-layer-normalization-for-conditional-generation) |
 | [Beam Search Decoding](https://www.deep-ml.com/problems/385) | medium | 2026-11-05 | [solution](problems/0385-beam-search-decoding) |
 | [Bellman Expectation Equation for State-Value Function](https://www.deep-ml.com/problems/464) | medium | 2026-10-13 | [solution](problems/0464-bellman-expectation-equation-for-state-value-function) |
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-09-14 | [solution](problems/0490-build-scaled-dot-product-attention) |
